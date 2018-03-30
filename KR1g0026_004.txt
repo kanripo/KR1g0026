@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 十三經注疏正字
-#+DATE: 2018-03-30 13:56:37.957962
+#+DATE: 2018-03-30 14:14:48.206177
 #+PROPERTY: ID KR1g0026
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
